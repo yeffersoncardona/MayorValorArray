@@ -1,0 +1,16 @@
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\bin\Debug\net5.0\DigitalWarePrueba.exe
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\bin\Debug\net5.0\DigitalWarePrueba.deps.json
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\bin\Debug\net5.0\DigitalWarePrueba.runtimeconfig.json
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\bin\Debug\net5.0\DigitalWarePrueba.runtimeconfig.dev.json
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\bin\Debug\net5.0\DigitalWarePrueba.dll
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\bin\Debug\net5.0\DigitalWarePrueba.pdb
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.csproj.AssemblyReference.cache
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.AssemblyInfoInputs.cache
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.AssemblyInfo.cs
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.csproj.CoreCompileInputs.cache
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.dll
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\refint\DigitalWarePrueba.dll
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.pdb
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\DigitalWarePrueba.genruntimeconfig.cache
+C:\Repositorios\pruebaDigitalWare\DigitalWarePrueba\obj\Debug\net5.0\ref\DigitalWarePrueba.dll
